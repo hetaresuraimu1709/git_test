@@ -1,6 +1,10 @@
 helloooooooooooooooo
 gitttttttttttttttttttt
 
+<<<<<<< HEAD
 I am a perfect master.
 
 nacata
+=======
+ieeeeeeeeeeeeeeeeeeeeeee
+>>>>>>> test
